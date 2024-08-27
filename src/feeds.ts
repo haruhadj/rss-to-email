@@ -28,4 +28,7 @@ export const feeds = [
 
   // Nyaa - "Giji Harem 1080p subsplease" - Torrent File RSS
   "https://nyaa.si/?page=rss&q=Giji+Harem+1080p+subsplease&c=1_2&f=0",
+
+  // Nyaa - English
+  "https://nyaa.si/?page=rss&c=1_2&f=0"
 ]
