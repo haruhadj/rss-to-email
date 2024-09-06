@@ -41,5 +41,18 @@ export const feeds = [
   // Parallel Paradise
   "https://api.mangaupdates.com/v1/series/56046898624/rss",
 
-  
+  // Kakkou no Iinazuke
+  "https://api.mangaupdates.com/v1/series/45845255888/rss",
+
+  // Tonikaku Kawaii
+  "https://api.mangaupdates.com/v1/series/37088343287/rss",
+
+  // One Punch-Man
+  "https://api.mangaupdates.com/v1/series/30535847369/rss",
+
+  // Jujutsu Kaisen
+  "https://api.mangaupdates.com/v1/series/23801312094/rss",
+
+  // Sousou no Frieren
+  "https://api.mangaupdates.com/v1/series/66296374554/rss"
 ]
