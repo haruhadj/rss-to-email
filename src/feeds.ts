@@ -30,6 +30,16 @@ export const feeds = [
   "https://nyaa.si/?page=rss&q=Giji+Harem+1080p+subsplease&c=1_2&f=0",
 
   // Makeine - Nyaa
-  "https://nyaa.si/?page=rss&q=%5BToonsHub%5D+Makeine+Too+Many+Losing+Heroines%21+1080p+global+264&c=1_2&f=0"
+  "https://nyaa.si/?page=rss&q=%5BToonsHub%5D+Makeine+Too+Many+Losing+Heroines%21+1080p+global+264&c=1_2&f=0",
 
+  // Soredemo Ayumu wa Yosetekuru
+  "https://api.mangaupdates.com/v1/series/60025391738/rss",
+
+  // Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!
+  "https://api.mangaupdates.com/v1/series/39874134635/rss",
+
+  // Parallel Paradise
+  "https://api.mangaupdates.com/v1/series/56046898624/rss",
+
+  
 ]
