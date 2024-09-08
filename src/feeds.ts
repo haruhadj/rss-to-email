@@ -54,8 +54,5 @@ export const feeds = [
   "https://api.mangaupdates.com/v1/series/23801312094/rss",
 
   // Sousou no Frieren
-  "https://api.mangaupdates.com/v1/series/66296374554/rss",
-
-  // Nyaa
-  "https://nyaa.si/?page=rss"
+  "https://api.mangaupdates.com/v1/series/66296374554/rss"
 ]
