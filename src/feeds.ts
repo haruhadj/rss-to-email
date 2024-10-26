@@ -2,7 +2,7 @@ export const feeds = [
 
   // 'https://nyaa.si/?page=rss&c=1_2&f=0'
   // Sono Bisque Doll wa Koi wo suru - Releases on MangaSee
-  'https://mangasee123.com/rss/Sono-Bisque-Doll-Wa-Koi-Wo-Suru.xml'
+  'https://api.mangaupdates.com/v1/series/13952982910/rss',
 
   // // Vinland Saga - Releases on MangaSee
   // 'https://mangasee123.com/rss/Vinland-Saga.xml',
