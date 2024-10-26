@@ -1,52 +1,54 @@
 export const feeds = [
-  // Sono Bisque Doll wa Koi wo suru - Releases on MangaSee
-  'https://mangasee123.com/rss/Sono-Bisque-Doll-Wa-Koi-Wo-Suru.xml',
 
-  // Vinland Saga - Releases on MangaSee
-  'https://mangasee123.com/rss/Vinland-Saga.xml',
+  'https://nyaa.si/?page=rss&c=1_2&f=0'
+  // // Sono Bisque Doll wa Koi wo suru - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Sono-Bisque-Doll-Wa-Koi-Wo-Suru.xml',
 
-  // Oshi no Ko - Releases on MangaSee
-  'https://mangasee123.com/rss/Oshi-no-Ko.xml',
+  // // Vinland Saga - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Vinland-Saga.xml',
 
-  // Boku no Kokoro no Yabai Yatsu - Releases on MangaSee
-  'https://mangasee123.com/rss/Boku-no-Kokoro-no-Yabai-Yatsu.xml',
+  // // Oshi no Ko - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Oshi-no-Ko.xml',
 
-  // Uzaki-chan wa Asobitai - Releases on MangaSee
-  'https://mangasee123.com/rss/Uzaki-chan-Wa-Asobitai.xml',
+  // // Boku no Kokoro no Yabai Yatsu - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Boku-no-Kokoro-no-Yabai-Yatsu.xml',
 
-  // Grand Blue - Releases on MangaSee
-  'https://mangasee123.com/rss/Grand-Blue.xml',
+  // // Uzaki-chan wa Asobitai - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Uzaki-chan-Wa-Asobitai.xml',
 
-  // Fuufu Ijou, Koibito Miman - Releases on MangaSee
-  'https://mangasee123.com/rss/Fuufu-Ijou-Koibito-Miman.xml',
+  // // Grand Blue - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Grand-Blue.xml',
 
-  // Soredemo Ayumu wa Yosetekuru - Releases on MangaSee
-  'https://mangasee123.com/rss/Soredemo-Ayumu-wa-Yosetekuru.xml',
+  // // Fuufu Ijou, Koibito Miman - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Fuufu-Ijou-Koibito-Miman.xml',
 
-  // The Hero Took Everything from Me, So I Partied with the Hero's Mother - Releases on MangaSee
-  'https://mangasee123.com/rss/The-Hero-Took-Everything-from-Me-So-I-Partied-with-the-Heros-Mother.xml',
+  // // Soredemo Ayumu wa Yosetekuru - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Soredemo-Ayumu-wa-Yosetekuru.xml',
 
-  // Parallel Paradise - Releases on MangaSee
-  'https://mangasee123.com/rss/Parallel-Paradise.xml',
+  // // The Hero Took Everything from Me, So I Partied with the Hero's Mother - Releases on MangaSee
+  // 'https://mangasee123.com/rss/The-Hero-Took-Everything-from-Me-So-I-Partied-with-the-Heros-Mother.xml',
 
-  // Kakkou no Iinazuke - Releases on MangaSee
-  'https://mangasee123.com/rss/Kakkou-no-Iinazuke.xml',
+  // // Parallel Paradise - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Parallel-Paradise.xml',
 
-  // Tonikaku Kawaii - Releases on MangaSee
-  'https://mangasee123.com/rss/Tonikaku-Kawaii.xml',
+  // // Kakkou no Iinazuke - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Kakkou-no-Iinazuke.xml',
 
-  // One Punch Man - Releases on MangaSee
-  'https://mangasee123.com/rss/Onepunch-Man.xml',
+  // // Tonikaku Kawaii - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Tonikaku-Kawaii.xml',
 
-  // Jujutsu Kaisen - Releases on MangaSee
-  'https://mangasee123.com/rss/Jujutsu-Kaisen.xml',
+  // // One Punch Man - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Onepunch-Man.xml',
 
-  // Sousou no Frieren - Releases on MangaSee
-  'https://mangasee123.com/rss/Sousou-no-Frieren.xml',
+  // // Jujutsu Kaisen - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Jujutsu-Kaisen.xml',
 
-  // The 100 Girlfriends Who Really Really Really Really Really Love You - Releases on MangaSee
-  'https://mangasee123.com/rss/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.xml',
+  // // Sousou no Frieren - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Sousou-no-Frieren.xml',
 
-  // Kaoru Hana wa Rin to Saku - Releases on MangaSee
-  'https://mangasee123.com/rss/Kaoru-Hana-wa-Rin-to-Saku.xml',
+  // // The 100 Girlfriends Who Really Really Really Really Really Love You - Releases on MangaSee
+  // 'https://mangasee123.com/rss/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.xml',
+
+  // // Kaoru Hana wa Rin to Saku - Releases on MangaSee
+  // 'https://mangasee123.com/rss/Kaoru-Hana-wa-Rin-to-Saku.xml',
 ];
