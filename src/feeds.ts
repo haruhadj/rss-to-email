@@ -1,58 +1,52 @@
 export const feeds = [
-  // Sono Bisque Doll wa Koi wo suru - Releases on MangaUpdates
-  "https://api.mangaupdates.com/v1/series/13952982910/rss",
+  // Sono Bisque Doll wa Koi wo suru - Releases on MangaSee
+  "https://mangasee123.com/rss/Sono-Bisque-Doll-Wa-Koi-Wo-Suru.xml",
 
-  // Vinland Saga
-  "https://api.mangaupdates.com/v1/series/27728982867/rss",
+  // Vinland Saga - Releases on MangaSee
+  "https://mangasee123.com/rss/Vinland-Saga.xml",
 
-  // Oshi no Ko
-  "https://api.mangaupdates.com/v1/series/17997087747/rss",
+  // Oshi no Ko - Releases on MangaSee
+  "https://mangasee123.com/rss/Oshi-no-Ko.xml",
 
-  // Boku no Kokoro no Yabai Yatsu
-  "https://api.mangaupdates.com/v1/series/9143777514/rss",
+  // Boku no Kokoro no Yabai Yatsu - Releases on MangaSee
+  "https://mangasee123.com/rss/Boku-no-Kokoro-no-Yabai-Yatsu.xml",
 
-  // Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-  "https://api.mangaupdates.com/v1/series/23862878832/rss",
+  // Uzaki-chan wa Asobitai - Releases on MangaSee
+  "https://mangasee123.com/rss/Uzaki-chan-Wa-Asobitai.xml",
 
-  // Uzaki-chan wa Asobitai
-  "https://api.mangaupdates.com/v1/series/60675588667/rss",
+  // Grand Blue - Releases on MangaSee
+  "https://mangasee123.com/rss/Grand-Blue.xml",
 
-  // Grand Blue - Releases on MangaUpdates
-  "https://api.mangaupdates.com/v1/series/65672018770/rss",
+  // Fuufu Ijou, Koibito Miman - Releases on MangaSee
+  "https://mangasee123.com/rss/Fuufu-Ijou-Koibito-Miman.xml",
 
-  // Nyaa - "oshi no ko nandesuka 2160p 265" - Torrent File RSS
-  "https://nyaa.si/?page=rss&q=oshi+no+ko+nandesuka+2160p+265&c=1_2&f=0",
+  // Soredemo Ayumu wa Yosetekuru - Releases on MangaSee
+  "https://mangasee123.com/rss/Soredemo-Ayumu-wa-Yosetekuru.xml",
 
-  // Nyaa - "gimai seikatsu 1080p subsplease" - Torrent File RSS
-  "https://nyaa.si/?page=rss&q=gimai+seikatsu+1080p+subsplease&c=1_2&f=0",
+  // The Hero Took Everything from Me, So I Partied with the Hero's Mother - Releases on MangaSee
+  "https://mangasee123.com/rss/The-Hero-Took-Everything-from-Me-So-I-Partied-with-the-Heros-Mother.xml",
 
-  // Nyaa - "Giji Harem 1080p subsplease" - Torrent File RSS
-  "https://nyaa.si/?page=rss&q=Giji+Harem+1080p+subsplease&c=1_2&f=0",
+  // Parallel Paradise - Releases on MangaSee
+  "https://mangasee123.com/rss/Parallel-Paradise.xml",
 
-  // Makeine - Nyaa
-  "https://nyaa.si/?page=rss&q=%5BToonsHub%5D+Makeine+Too+Many+Losing+Heroines%21+1080p+global+264&c=1_2&f=0",
+  // Kakkou no Iinazuke - Releases on MangaSee
+  "https://mangasee123.com/rss/Kakkou-no-Iinazuke.xml",
 
-  // Soredemo Ayumu wa Yosetekuru
-  "https://api.mangaupdates.com/v1/series/60025391738/rss",
+  // Tonikaku Kawaii - Releases on MangaSee
+  "https://mangasee123.com/rss/Tonikaku-Kawaii.xml",
 
-  // Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!
-  "https://api.mangaupdates.com/v1/series/39874134635/rss",
+  // One Punch Man - Releases on MangaSee
+  "https://mangasee123.com/rss/Onepunch-Man.xml",
 
-  // Parallel Paradise
-  "https://api.mangaupdates.com/v1/series/56046898624/rss",
+  // Jujutsu Kaisen - Releases on MangaSee
+  "https://mangasee123.com/rss/Jujutsu-Kaisen.xml",
 
-  // Kakkou no Iinazuke
-  "https://api.mangaupdates.com/v1/series/45845255888/rss",
+  // Sousou no Frieren - Releases on MangaSee
+  "https://mangasee123.com/rss/Sousou-no-Frieren.xml",
 
-  // Tonikaku Kawaii
-  "https://api.mangaupdates.com/v1/series/37088343287/rss",
+  // The 100 Girlfriends Who Really Really Really Really Really Love You - Releases on MangaSee
+  "https://mangasee123.com/rss/The-100-Girlfriends-Who-Really-Really-Really-Really-Really-Love-You.xml",
 
-  // One Punch-Man
-  "https://api.mangaupdates.com/v1/series/30535847369/rss",
-
-  // Jujutsu Kaisen
-  "https://api.mangaupdates.com/v1/series/23801312094/rss",
-
-  // Sousou no Frieren
-  "https://api.mangaupdates.com/v1/series/66296374554/rss"
-]
+  // Kaoru Hana wa Rin to Saku - Releases on MangaSee
+  "https://mangasee123.com/rss/Kaoru-Hana-wa-Rin-to-Saku.xml",
+];
